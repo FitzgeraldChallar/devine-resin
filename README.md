@@ -1,16 +1,44 @@
-# React + Vite
+# 🎨 Devine Touch Resin Academy
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Where creativity becomes a skill.**
 
-Currently, two official plugins are available:
+Devine Touch Resin Academy is a practical skills training academy based in **Monrovia, Liberia**. We help aspiring creatives turn their talents into professional skills and sustainable business opportunities.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+From creative crafts to beauty services, our training is designed to give beginners hands-on, practical experience they can immediately use to **create, earn, and grow**.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Core Offerings
 
-## Expanding the ESLint configuration
+* **Creative Crafts:** Hands-on training in resin art, design, and physical creation.
+* **Beauty Services:** Professional skill development for the local beauty industry.
+* **Business Empowerment:** Bridging the gap between artistic talent and income generation.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 💻 Tech Stack & Development
+
+This platform is built using a modern frontend architecture optimized for performance and speed.
+
+* **Framework:** React
+* **Build Tool:** Vite (with Fast HMR)
+* **Linting:** ESLint
+
+### Getting Started
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server:**
+   ```bash
+   npm run dev
+   ```
